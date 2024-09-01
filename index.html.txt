@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parts of a System Unit</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Parts of a System Unit</h1>
+        <nav>
+            <ul>
+                <li><a href="#cpu">CPU</a></li>
+                <li><a href="#motherboard">Motherboard</a></li>
+                <li><a href="#ram">RAM</a></li>
+                <li><a href="#hard-drive">Hard Drive</a></li>
+                <li><a href="#power-supply">Power Supply</a></li>
+                <li><a href="#gpu">GPU</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="cpu">
+            <h2>Central Processing Unit (CPU)</h2>
+            <p>The CPU is the brain of the computer where most calculations take place. It performs instructions defined by software.</p>
+        </section>
+        <section id="motherboard">
+            <h2>Motherboard</h2>
+            <p>The motherboard is the main circuit board that holds the CPU, RAM, and other essential components. It allows these parts to communicate with each other.</p>
+        </section>
+        <section id="ram">
+            <h2>Random Access Memory (RAM)</h2>
+            <p>RAM is the computer's short-term memory, which stores data that is actively being used or processed.</p>
+        </section>
+        <section id="hard-drive">
+            <h2>Hard Drive</h2>
+            <p>The hard drive is used for long-term storage of data. It holds the operating system, software, and files.</p>
+        </section>
+        <section id="power-supply">
+            <h2>Power Supply Unit (PSU)</h2>
+            <p>The PSU provides power to the computer by converting electricity from the outlet into a form that the computer components can use.</p>
+        </section>
+        <section id="gpu">
+            <h2>Graphics Processing Unit (GPU)</h2>
+            <p>The GPU handles rendering of images and videos. It is crucial for tasks that require high graphical performance, such as gaming and video editing.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Parts of a System Unit</p>
+    </footer>
+</body>
+</html>
